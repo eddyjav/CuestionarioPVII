@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelo", "Modelo\Modelo.csproj", "{236E456A-E66D-4638-BB5E-F898A82271BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{79A5B167-B1AE-44E9-85A3-2160D4627B15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModeloDB", "ModeloDB\ModeloDB.csproj", "{FE50E6CF-E6F8-4059-92D4-67E5E4E717A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{236E456A-E66D-4638-BB5E-F898A82271BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{236E456A-E66D-4638-BB5E-F898A82271BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{236E456A-E66D-4638-BB5E-F898A82271BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{236E456A-E66D-4638-BB5E-F898A82271BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79A5B167-B1AE-44E9-85A3-2160D4627B15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79A5B167-B1AE-44E9-85A3-2160D4627B15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79A5B167-B1AE-44E9-85A3-2160D4627B15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79A5B167-B1AE-44E9-85A3-2160D4627B15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE50E6CF-E6F8-4059-92D4-67E5E4E717A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE50E6CF-E6F8-4059-92D4-67E5E4E717A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE50E6CF-E6F8-4059-92D4-67E5E4E717A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE50E6CF-E6F8-4059-92D4-67E5E4E717A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12931EC9-D3C2-482E-955F-84046288130F}
+	EndGlobalSection
+EndGlobal
